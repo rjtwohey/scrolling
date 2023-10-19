@@ -1,0 +1,7 @@
+{
+  "name": "scrolling",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
